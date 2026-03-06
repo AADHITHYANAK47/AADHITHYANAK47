@@ -39,7 +39,6 @@ GitHub is my space to document my learning journey, share creative projects, and
   <a href="https://github.com/Midhun-Nk">
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
   </a>
-
   <a href="www.linkedin.com/in/aadhithyan07">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
